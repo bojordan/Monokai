@@ -57,6 +57,10 @@
 							<Item Name="urlformat" Foreground="0x007226F9" Background="0x00222827" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x005F7378" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x003E4849" BoldFont="No"/>
+							<Item Name="mergeEditor.AcceptedLine" Foreground="0x01000000" Background="0x0046AC8D" BoldFont="No"/>
+							<Item Name="mergeEditor.AcceptedSimilarLine" Foreground="0x01000000" Background="0x00467EAC" BoldFont="No"/>
+							<Item Name="mergeEditor.ConflictLine" Foreground="0x01000000" Background="0x003D3D92" BoldFont="No"/>
+							<Item Name="mergeEditor.ConflictNegativeSpace" Foreground="0x01000000" Background="0x0026265E" BoldFont="No"/>
 							<Item Name="C/C++ User Keywords" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Keyword" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
