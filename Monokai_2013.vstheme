@@ -626,32 +626,17 @@
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF3E1919" />
       </Color>
-      <Color Name="MatchColor">
-        <Background Type="CT_RAW" Source="FF303129" />
-      </Color>
-      <Color Name="BlockStructureClass">
-        <Foreground Type="CT_RAW" Source="FF303129" />
-      </Color>
-      <Color Name="BlockStructureConditional">
-        <Foreground Type="CT_RAW" Source="FF303129" />
-      </Color>
-      <Color Name="BlockStructureLoop">
-        <Foreground Type="CT_RAW" Source="FF303129" />
-      </Color>
-      <Color Name="BlockStructureMethod">
-        <Foreground Type="CT_RAW" Source="FF303129" />
-      </Color>
-      <Color Name="BlockStructureUnknown">
-        <Foreground Type="CT_RAW" Source="FF303129" />
-      </Color>
       <Color Name="ReSharper LiveTemplates Current HotSpot">
         <Foreground Type="CT_RAW" Source="FFA00000" />
       </Color>
       <Color Name="CoffeeScriptHeRegExSeparatorFormatDefinition">
         <Background Type="CT_RAW" Source="FF272822" />
       </Color>
-      <Color Name="UnderlineClassificationFormatProPack">
-        <Foreground Type="CT_RAW" Source="FF2B91AF" />
+      <Color Name="Peek Background">
+        <Background Type="CT_RAW" Source="FF33342C" />
+      </Color>
+      <Color Name="Peek Background Unfocused">
+        <Background Type="CT_RAW" Source="FF404137" />
       </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
